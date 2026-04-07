@@ -57,7 +57,6 @@
       "updatedAt": "2026-03-28T14:20:00Z"
     },
     {
-      "downloadUrl": "https://github.com/Yoimiya-Naganohara/schedule-extension-swust/blob/main/extension.js",
       "id": "swust-schedule-extension",
       "name": "SWUST Schedule Extension",
       "version": "1.0.0",
@@ -70,6 +69,7 @@
         "import",
         "university"
       ],
+      "downloadUrl": "https://github.com/Yoimiya-Naganohara/schedule-extension-swust/blob/main/extension.js",
       "sourceUrl": "https://github.com/Yoimiya-Naganohara/schedule-extension-swust"
     }
   ]
