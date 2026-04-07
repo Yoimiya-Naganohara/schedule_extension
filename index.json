@@ -9,7 +9,11 @@
       "description": "Import demo schedule data from a fictional university. This is a sample plugin for testing the market functionality.",
       "author": "Schedule App Team",
       "category": "school",
-      "tags": ["university", "demo", "sample"],
+      "tags": [
+        "university",
+        "demo",
+        "sample"
+      ],
       "downloadUrl": "/market/plugins/demo-university.js",
       "sourceUrl": "https://github.com/example/schedule-plugins",
       "downloads": 128,
@@ -23,7 +27,11 @@
       "description": "Import events from a simple weekly planner format. Supports custom time ranges and recurring events.",
       "author": "Community",
       "category": "utility",
-      "tags": ["planner", "weekly", "import"],
+      "tags": [
+        "planner",
+        "weekly",
+        "import"
+      ],
       "downloadUrl": "/market/plugins/weekly-planner.js",
       "downloads": 89,
       "rating": 4.2,
@@ -36,13 +44,33 @@
       "description": "Sync your company's internal calendar system. Supports OAuth2 authentication and automatic refresh.",
       "author": "Enterprise Tools Inc.",
       "category": "organization",
-      "tags": ["enterprise", "calendar", "sync"],
+      "tags": [
+        "enterprise",
+        "calendar",
+        "sync"
+      ],
       "downloadUrl": "/market/plugins/company-calendar.js",
       "sourceUrl": "https://github.com/enterprise-tools/schedule-plugins",
       "homepage": "https://enterprise-tools.example.com",
       "downloads": 256,
       "rating": 4.8,
       "updatedAt": "2026-03-28T14:20:00Z"
+    },
+    {
+      "downloadUrl": "https://github.com/Yoimiya-Naganohara/schedule-extension-swust/blob/main/extension.js",
+      "id": "swust-schedule-extension",
+      "name": "SWUST Schedule Extension",
+      "version": "1.0.0",
+      "description": "A schedule import plugin for Southwest University of Science and Technology (SWUST). It allows users to import their class schedules directly from the university's system, making it easier to manage their academic calendar.",
+      "author": "Yoimiya Naganohara",
+      "category": "education",
+      "tags": [
+        "SWUST",
+        "schedule",
+        "import",
+        "university"
+      ],
+      "sourceUrl": "https://github.com/Yoimiya-Naganohara/schedule-extension-swust"
     }
   ]
 }
