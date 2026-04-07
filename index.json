@@ -79,7 +79,7 @@
       "downloadUrl": "https://raw.githubusercontent.com/Yoimiya-Naganohara/schedule-extension-swust/main/extension.js",
       "id": "schedule-extension-swust",
       "name": "SWUST Schedule Extension (Latest)",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "description": "A schedule import plugin for Southwest University of Science and Technology (SWUST). It allows users to import their class schedules directly from the university's system, making it easier to manage their academic calendar.",
       "author": "Yoimiya Naganohara",
       "category": "education",
