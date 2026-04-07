@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-04-07T12:00:00Z",
+  "plugins": [
+    {
+      "id": "demo-university",
+      "name": "Demo University Schedule",
+      "version": "1.0.0",
+      "description": "Import demo schedule data from a fictional university. This is a sample plugin for testing the market functionality.",
+      "author": "Schedule App Team",
+      "category": "school",
+      "tags": ["university", "demo", "sample"],
+      "downloadUrl": "/market/plugins/demo-university.js",
+      "sourceUrl": "https://github.com/example/schedule-plugins",
+      "downloads": 128,
+      "rating": 4.5,
+      "updatedAt": "2026-04-01T08:00:00Z"
+    },
+    {
+      "id": "weekly-planner",
+      "name": "Weekly Planner Import",
+      "version": "1.2.0",
+      "description": "Import events from a simple weekly planner format. Supports custom time ranges and recurring events.",
+      "author": "Community",
+      "category": "utility",
+      "tags": ["planner", "weekly", "import"],
+      "downloadUrl": "/market/plugins/weekly-planner.js",
+      "downloads": 89,
+      "rating": 4.2,
+      "updatedAt": "2026-03-15T10:30:00Z"
+    },
+    {
+      "id": "company-calendar",
+      "name": "Company Calendar Sync",
+      "version": "2.0.1",
+      "description": "Sync your company's internal calendar system. Supports OAuth2 authentication and automatic refresh.",
+      "author": "Enterprise Tools Inc.",
+      "category": "organization",
+      "tags": ["enterprise", "calendar", "sync"],
+      "downloadUrl": "/market/plugins/company-calendar.js",
+      "sourceUrl": "https://github.com/enterprise-tools/schedule-plugins",
+      "homepage": "https://enterprise-tools.example.com",
+      "downloads": 256,
+      "rating": 4.8,
+      "updatedAt": "2026-03-28T14:20:00Z"
+    }
+  ]
+}
